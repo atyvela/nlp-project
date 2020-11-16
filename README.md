@@ -10,4 +10,4 @@ Dependencies needed to run the scripts:
 - stanfordnlp
 - spacy_stanfordnlp
 
-dataset from: https://korp.csc.fi/download/Suomi24/2001-2017/ 
+dataset from: https://korp.csc.fi/download/Suomi24/2001-2017/  *NOTE THE LARGE SIZE OF DATASET
